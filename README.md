@@ -1,5 +1,10 @@
 [This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
 
+# Introduction
+This is a repository for my data visualizations of the Washington Post's 2015 police shootings database. All visualizations are done in Tableau in [Police Shooting Visualizations.twb](https://github.com/mjirv/data-police-shootings/blob/master/Police%20Shooting%20Visualisations.twb).
+
+The original README is copied below:
+
 # About this story
 The Washington Post is [compiling a database of every fatal shooting](https://www.washingtonpost.com/graphics/national/police-shootings/) in the United States by a police officer in the line of duty in 2015.
 
